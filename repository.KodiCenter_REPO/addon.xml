@@ -2,8 +2,8 @@
 <addon id="repository.KodiCenter_REPO" name="repository.KodiCenter_REPO" version="BETA 1" provider-name="XigorGamer_BR">
     <extension point="xbmc.addon.repository" name="repository.KodiCenter_REPO">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/XigorGamer_BR/repository.KodiCenter_REPO/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/XigorGamer_BR/repository.KodiCenter_REPO/master/zips/addons.xml.md5</checksum>
+            <info compressed="false">https://raw.githubusercontent.com/XigorGamerBR/KodiCenter_REPO/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/XigorGamerBR/KodiCenter_REPO/master/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/XigorGamer_BR/repository.KodiCenter_REPO/master/zips/</datadir>
         </dir>
     </extension>
