@@ -8,8 +8,8 @@
     -
     <li>Repositório Instalado!</li>
     
-</ul>
-
+     
+    <li> Fire Stick Lite
                                       
                                        
 
