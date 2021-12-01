@@ -1,4 +1,5 @@
  <ul>
+    <li> Seja Bem Vindo
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/KodiCenter/</code> (Dar o nome de "repository.KodiCenter_REPO").</li>
@@ -12,5 +13,5 @@
                                       
                                        
 
-</p>
+
 
